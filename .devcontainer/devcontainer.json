@@ -1,0 +1,11 @@
+{
+    "name": "Existing Docker Compose (Extend)",
+    "dockerComposeFile": [
+        "../docker-compose.yml"
+    ],
+    "service": "laravel.test",
+    "workspaceFolder": "/var/www/html",
+    "settings": {},
+    "extensions": [],
+    "remoteUser": "sail"
+}
